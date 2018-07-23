@@ -1,11 +1,11 @@
-##APP del curso de node creacion de servidor
+## APP del curso de node creacion de servidor
 
-###Logros
+### Logros
 * Uso de express para montar servidor
 * HBS (handlebars) para la ingracion de parciales y helpers
 * Se subio a heroku
 
-###No olvides
+### No olvides
 ```
 npm install
 ```
